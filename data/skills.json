@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "id": "languages",
+      "name": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        { "name": "C#", "val": 95, "icon": "devicon-csharp-plain", "desc": "Primary language for 5+ years. Extensive use in production-level Unity projects and enterprise systems.", "keywords": ["C#", "Unity"] },
+        { "name": "Kotlin", "val": 95, "icon": "devicon-kotlin-plain", "desc": "Certified 'Android Developer Expert'. Specialized in modern Android architecture and reactive patterns.", "keywords": ["Kotlin", "Android"] },
+        { "name": "Lua", "val": 85, "icon": "devicon-lua-plain", "desc": "Professional scripting for Roblox Studio and custom game logic systems.", "keywords": ["Lua", "Roblox"] },
+        { "name": "C++", "val": 75, "icon": "devicon-cplusplus-plain", "desc": "Utilized for performance-critical modules and engine-level development.", "keywords": ["C++"] },
+        { "name": "Typescript", "val": 80, "icon": "devicon-typescript-plain", "desc": "Scalable web development and tool creation for game pipelines.", "keywords": ["Typescript", "TS"] },
+        { "name": "Java", "val": 80, "icon": "devicon-java-plain", "desc": "Solid foundation in enterprise Android development and backend services.", "keywords": ["Java"] }
+      ]
+    },
+    {
+      "id": "engines",
+      "name": "Game Engines",
+      "icon": "fas fa-wrench",
+      "skills": [
+        { 
+          "name": "Unity", 
+          "val": 98, 
+          "logo": "engines/Unity.png",
+          "desc": "Unity Certified Associate: Programmer. 3.5 years as a Game Programmer at Agate International. Focused on UI systems, data-driven architecture, and cross-platform optimization.",
+          "subskills": ["Certified Programmer", "UI Programming", "Zenject/VContainer", "URP/HDRP", "Addressables"],
+          "keywords": ["Unity"] 
+        },
+        { 
+          "name": "Roblox Studio", 
+          "val": 85, 
+          "logo": "engines/RobloxStudio.png",
+          "desc": "Professional experience developing multiplayer experiences. Proficient in Lua scripting and Roblox API services.",
+          "subskills": ["Luau", "DataStoreService", "Networking", "Multilingual Support"],
+          "keywords": ["Roblox"] 
+        },
+        { 
+          "name": "GameMaker Studio 2", 
+          "val": 75, 
+          "logo": "engines/GameMaker.png",
+          "desc": "Experienced in rapid 2D prototyping, custom mechanics, and GMS2 workflow optimization.",
+          "subskills": ["GML", "Physics", "Surfaces", "State Machines"],
+          "keywords": ["Game Maker", "GMS2"] 
+        },
+        { 
+          "name": "Phaser 3", 
+          "val": 70, 
+          "logo": "engines/Phaser.png",
+          "desc": "Integrating 2D mechanics for web-based games and interactive HTML5 experiences.",
+          "subskills": ["Arcade Physics", "Matter.js", "PWA Integration"],
+          "keywords": ["Phaser", "HTML"] 
+        }
+      ]
+    },
+    {
+      "id": "specialized",
+      "name": "Specializations",
+      "icon": "fas fa-star",
+      "skills": [
+        { "name": "AR/VR/XR", "val": 80, "icon": "fas fa-cubes", "desc": "1 year specialized experience using Vuforia, EasyAR, ARCore, and SteamVR.", "keywords": ["AR", "VR", "Vuforia", "ARCore"] },
+        { "name": "Mentorship", "val": 90, "icon": "fas fa-chalkboard-teacher", "desc": "Game Dev Mentor at Markoding & Skilvul. Reviewer for Agate Academy.", "keywords": ["Mentor", "Reviewer"] },
+        { "name": "Android Dev", "val": 95, "icon": "fab fa-android", "desc": "Certified Android Developer Expert with focus on modern PWA and Kotlin.", "keywords": ["Android", "PWA"] },
+        { "name": "Multiplayer", "val": 85, "icon": "fas fa-users", "desc": "Experience in Netcode, Mirror, and client-server synchronization patterns.", "keywords": ["Multiplayer", "Network"] }
+      ]
+    }
+  ],
+  "concepts": [
+    "SOLID Principles",
+    "Design Patterns",
+    "Dependency Injection",
+    "Clean Code",
+    "Data-Driven Design",
+    "Performance Optimization (DOTS/ECS)",
+    "Object-Oriented Programming (OOP)",
+    "Mobile (Android) Architecture",
+    "Version Control (Git)",
+    "Agile Methodology",
+    "Memory Management",
+    "Multi-threading",
+    "PWA Development"
+  ]
+}
