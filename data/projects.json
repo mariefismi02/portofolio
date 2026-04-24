@@ -1,61 +1,754 @@
 {
   "games": [
-    { "name": "PeeLock", "thumbnail": "games/PL1.png", "img": ["games/PL1.png", "games/PL2.png", "games/PL3.png"], "created": "2017-05-02", "genre": ["arcade"], "url": "https://drive.google.com/file/d/0B0C1lKgg29ifdWFWdTE2NlJZcUE/view?ts=5aa799d9", "tools": "Construct 2", "platforms": "Windows" },
-    { "name": "Kuis Bergambar", "thumbnail": "games/KB1.png", "img": ["games/KB1.png", "games/KB2.png", "games/KB3.png", "games/KB4.png", "games/KB5.png", "games/KB6.png"], "created": "2017-07-30", "genre": ["quiz", "trivia"], "video": { "host": "youtube", "link": "https://www.youtube.com/embed/_umGdgMyuv0" }, "url": "https://play.google.com/store/apps/details?id=com.gd6.kuis_bergambar", "tools": "Game Maker: Studio", "platforms": "Android" },
-    { "name": "Juragan Kolak", "thumbnail": "games/juragankolak1.png", "img": ["games/juragankolak1.png", "games/juragankolak2.png", "games/juragankolak3.png", "games/juragankolak3.png", "games/juragankolak5.png"], "created": "2018-05-30", "genre": ["simulation", "casual"], "url": "https://play.google.com/store/apps/details?id=com.uagames.juragan_kolak", "tools": "Game Maker: Studio", "video": { "host": "youtube", "link": "https://youtube.com/embed/vBi1y1an_8U" }, "platforms": "Android" },
-    { "name": "Kuis Bergambar Edisi Sepakbola", "thumbnail": "games/KBSB1.png", "img": ["games/KBSB1.png", "games/KBSB2.png", "games/KBSB3.png", "games/KBSB4.png"], "created": "2018-07-12", "genre": ["quiz", "trivia"], "url": "https://play.google.com/store/apps/details?id=com.orionid.kuis_gambar_sepakbola", "tools": "Game Maker: Studio", "video": { "host": "youtube", "link": "https://youtube.com/embed/dxLilTn7tHc" }, "platforms": "Android" },
-    { "name": "Color Ball", "thumbnail": "games/CB1.png", "img": ["games/CB1.png", "games/CB2.png", "games/CB3.png", "games/CB4.png"], "created": "2018-08-16", "genre": ["arcade"], "url": "https://play.google.com/store/apps/details?id=com.orionid.color_ball&hl=en_US", "tools": "Game Maker: Studio", "video": { "host": "youtube", "link": "https://youtube.com/embed/a4E-d8eoapM" }, "platforms": "Android" },
-    { "name": "Irama Makanan", "thumbnail": "games/iramakan.png", "img": ["games/iramakan1.png", "games/iramakan2.png", "games/iramakan3.png"], "created": "2018-10-7", "achievement": "Finalist at Gemastik XI - Game Development Category", "genre": ["simulation", "rhythm"], "video": { "host": "youtube", "link": "https://www.youtube.com/embed/FjyxJSToHss" }, "url": "https://drive.google.com/open?id=1NHAyPPexhrhTCKF4O_wcjPrIwPsfD__r", "tools": "Game Maker: Studio", "platforms": "Android" },
-    { "name": "Snake The Game", "thumbnail": "games/snakes.png", "img": ["games/snakes3.png", "games/snakes2.png", "games/snakes1.png"], "created": "2019-03-26", "genre": ["arcade"], "url": "https://ayammayam987.itch.io/snake-the-game", "tools": "Unity", "platforms": "Web" },
-    { "name": "Katamino The Game", "thumbnail": "games/katamino1.png", "img": ["games/katamino1.png", "games/katamino2.png", "games/katamino3.png", "games/katamino4.png", "games/katamino5.png", "games/katamino6.png"], "created": "2019-08-01", "genre": ["casual", "puzzle"], "url": "/#", "tools": "Game Maker Studio 2", "platforms": "Android" },
-    { "name": "App Attack", "thumbnail": "games/appatt1.PNG", "img": ["games/appatt1.PNG", "games/appatt2.PNG", "games/appatt3.PNG", "games/appatt4.PNG", "games/appatt5.PNG"], "created": "2019-11-03", "genre": ["casual", "arcade", "clicker"], "url": "https://drive.google.com/open?id=1QE5K-3sT1EbBZbI8kU1OJ15fcoij_HYK", "tools": "Game Maker Studio 2", "platforms": "Windows" },
-    { "name": "02022020", "thumbnail": "games/ggj20-01.png", "img": ["games/ggj20-01.png", "games/ggj20-02.PNG", "games/ggj20-03.png"], "created": "2020-02-02", "genre": ["3d", "TDS", "Action"], "url": "https://globalgamejam.org/2020/games/02022020-9", "tools": "Unity", "platforms": "Windows" },
-    { "name": "Flying Witch", "thumbnail": "games/fw1.jpeg", "img": ["games/fw2.png", "games/fw3.png", "games/fw4.png", "games/fw5.png", "games/fw6.png"], "created": "2020-02-28", "genre": ["Tower Deffense", "arcade", "shooter"], "url": "https://play.google.com/store/apps/details?id=com.D2.flyingwitch", "video": { "host": "youtube", "link": "https://www.youtube.com/embed/w2odLLR_EtI" }, "tools": "Game Maker Studio 2", "platforms": "Android" },
-    { "name": "The Plague: Save The World", "thumbnail": "games/plague1.jpeg", "img": ["games/plague2.jpeg", "games/plague3.jpeg", "games/plague4.jpeg", "games/plague5.jpeg"], "created": "2020-04-11", "genre": ["casual", "arcade", "clicker"], "url": "https://drive.google.com/file/d/1HuT8MgRIxLeZglFKMbtReDwI-ik5jrc-/view?usp=sharing", "tools": "Game Maker Studio 2", "platforms": "Android" },
-    { "name": "Last Dance", "thumbnail": "games/tld1.png", "img": ["games/tld2.png", "games/tld3.png", "games/tld4.png", "games/tld5.png"], "created": "2020-05-01", "genre": ["casual", "arcade", "clicker"], "url": "https://drive.google.com/file/d/1B-dE6xLI3N5j8MoM3IoqmDOBCWcu2Ass/view?usp=sharing", "video": { "host": "youtube", "link": "https://drive.google.com/file/d/1ATxZFjhCg-yI3P4_iHJ92x3DJqSw_6d5/preview" }, "tools": "Unity", "platforms": "Android" },
-    { "name": "Sate Rush", "thumbnail": "games/sate1.png", "img": ["games/sate2.png", "games/sate1.png", "games/sate3.png"], "created": "2020-08-10", "genre": ["casual", "arcade"], "achievement": "Best Game Concept - 2nd IGSI Game Jam", "url": "https://drive.google.com/file/d/1b8sLK2mbfOB_vE5KnSdMg8zxLX03EPIj/view?usp=sharing", "video": { "host": "youtube", "link": "https://www.youtube.com/embed/BxExMk7VX8g" }, "tools": "Unity", "platforms": "Android" },
-    { "name": "Dirgantara Airplane Simulator Builder", "thumbnail": "games/dabs.png", "img": ["games/dabs1.png", "games/dabs2.png", "games/dabs3.png"], "created": "2020-11-02", "genre": ["casual", "puzzle"], "url": "https://ayammayam987.itch.io/dirgantara-aircraft-builder-simulator", "video": { "host": "youtube", "link": "https://www.youtube.com/embed/51PS3J0dYH4" }, "tools": "Unity", "platforms": "Android" },
-    { "name": "Hangman", "thumbnail": "games/hangman1.jpg", "img": ["games/hangman2.jpg", "games/hangman3.jpg", "games/hangman4.jpg", "games/hangman1.jpg"], "created": "2020-11-06", "genre": ["casual", "arcade", "clicker"], "tools": "Unity", "platforms": "Android" },
-    { "name": "Typing Game", "thumbnail": "games/prisonpopper7.png", "img": ["games/prisonpopper.png", "games/prisonpopper2.png", "games/prisonpopper3.png", "games/prisonpopper4.png", "games/prisonpopper5.png", "games/prisonpopper6.png", "games/prisonpopper7.png", "games/prisonpopper8.png"], "created": "2020-12-15", "genre": ["word", "action"], "tools": "Unity", "platforms": "Web" },
-    { "name": "Sokoban (Clone)", "thumbnail": "games/sokoban3.PNG", "img": ["games/sokoban1.PNG", "games/sokoban2.PNG", "games/sokoban3.PNG"], "created": "2021-03-03", "genre": ["puzzle"], "url": "https://mariefismi02.github.io/sokoban/", "tools": "Phaser 3", "platforms": "Web" },
-    { "name": "BioCross", "thumbnail": "games/BioCross1.jpg", "img": ["games/BioCross1.jpg", "games/BioCross2.png"], "created": "2021-10-24", "genre": ["puzzle"], "url": "https://drive.google.com/file/d/13NX6O74P-UjIM0beLvczj6GxyFvCq2DX/view?usp=sharing", "tools": "Game Maker Studio 2", "platforms": "Android" },
-    { "name": "Monobiling", "desc": "A monopoly-like game for students", "thumbnail": "games/monobiling_3.jpg", "img": ["games/monobiling_1.jpg", "games/monobiling_2.jpg", "games/monobiling_4.jpg", "games/monobiling_5.jpg"], "created": "2022-07-22", "genre": ["puzzle", "board game", "turn-based"], "url": "https://drive.google.com/file/d/1kTkk9XbzNZdgf5lCtpYIVyb5_jfqcOr3/view?usp=sharing", "tools": "Unity", "platforms": "Windows" },
-    { "name": "Adventuring Physics", "desc": "A game to help understand physics", "thumbnail": "games/physics_1.jpg", "img": ["games/physics_2.jpg", "games/physics_3.jpg", "games/physics_4.jpg", "games/physics_5.jpg", "games/physics_6.jpg"], "created": "2022-08-07", "genre": ["puzzle", "board game", "turn-based"], "url": "https://drive.google.com/file/d/1lpvtJBBDSFPakgx4QLpkpvKdPerc6mCq/view?usp=sharing", "tools": "Unity", "platforms": "Android" },
-    { "name": "Riftstrom", "desc": "Previously worked as Frontend Programmer, focusing on outgame (non-gameplay) features during development.", "thumbnail": "games/RIFTSTORM0.webp", "img": ["games/RIFTSTORM1.webp", "games/RIFTSTORM2.webp", "games/RIFTSTORM3.webp", "games/RIFTSTORM4.webp"], "created": "2022 - Ongoing", "genre": ["Action RPG", "Looter Shooter", "Roguelite", "Multiplayer"], "video": { "host": "youtube", "link": "https://www.youtube.com/embed/CzZxaOBjN3s?si=XfFY9rieGIzDhcz7" }, "url": "https://www.playriftstorm.com/", "tools": "Unity", "platforms": "Windows (Steam)" }
+    {
+      "name": "PeeLock",
+      "thumbnail": "games/PL1.png",
+      "img": [
+        "games/PL1.png",
+        "games/PL2.png",
+        "games/PL3.png"
+      ],
+      "created": "2017-05-02",
+      "genre": [
+        "arcade"
+      ],
+      "url": "https://drive.google.com/file/d/0B0C1lKgg29ifdWFWdTE2NlJZcUE/view?ts=5aa799d9",
+      "tools": "Construct 2",
+      "platforms": "Windows"
+    },
+    {
+      "name": "Kuis Bergambar",
+      "thumbnail": "games/KB1.png",
+      "img": [
+        "games/KB1.png",
+        "games/KB2.png",
+        "games/KB3.png",
+        "games/KB4.png",
+        "games/KB5.png",
+        "games/KB6.png"
+      ],
+      "created": "2017-07-30",
+      "genre": [
+        "quiz",
+        "trivia"
+      ],
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/_umGdgMyuv0"
+      },
+      "url": "https://play.google.com/store/apps/details?id=com.gd6.kuis_bergambar",
+      "tools": "Game Maker: Studio",
+      "platforms": "Android"
+    },
+    {
+      "name": "Juragan Kolak",
+      "thumbnail": "games/juragankolak1.png",
+      "img": [
+        "games/juragankolak1.png",
+        "games/juragankolak2.png",
+        "games/juragankolak3.png",
+        "games/juragankolak3.png",
+        "games/juragankolak5.png"
+      ],
+      "created": "2018-05-30",
+      "genre": [
+        "simulation",
+        "casual"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.uagames.juragan_kolak",
+      "tools": "Game Maker: Studio",
+      "video": {
+        "host": "youtube",
+        "link": "https://youtube.com/embed/vBi1y1an_8U"
+      },
+      "platforms": "Android"
+    },
+    {
+      "name": "Kuis Bergambar Edisi Sepakbola",
+      "thumbnail": "games/KBSB1.png",
+      "img": [
+        "games/KBSB1.png",
+        "games/KBSB2.png",
+        "games/KBSB3.png",
+        "games/KBSB4.png"
+      ],
+      "created": "2018-07-12",
+      "genre": [
+        "quiz",
+        "trivia"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.orionid.kuis_gambar_sepakbola",
+      "tools": "Game Maker: Studio",
+      "video": {
+        "host": "youtube",
+        "link": "https://youtube.com/embed/dxLilTn7tHc"
+      },
+      "platforms": "Android"
+    },
+    {
+      "name": "Color Ball",
+      "thumbnail": "games/CB1.png",
+      "img": [
+        "games/CB1.png",
+        "games/CB2.png",
+        "games/CB3.png",
+        "games/CB4.png"
+      ],
+      "created": "2018-08-16",
+      "genre": [
+        "arcade"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.orionid.color_ball&hl=en_US",
+      "tools": "Game Maker: Studio",
+      "video": {
+        "host": "youtube",
+        "link": "https://youtube.com/embed/a4E-d8eoapM"
+      },
+      "platforms": "Android"
+    },
+    {
+      "name": "Irama Makanan",
+      "thumbnail": "games/iramakan.png",
+      "img": [
+        "games/iramakan1.png",
+        "games/iramakan2.png",
+        "games/iramakan3.png"
+      ],
+      "created": "2018-10-7",
+      "achievement": "Finalist at Gemastik XI - Game Development Category",
+      "genre": [
+        "simulation",
+        "rhythm"
+      ],
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/FjyxJSToHss"
+      },
+      "url": "https://drive.google.com/open?id=1NHAyPPexhrhTCKF4O_wcjPrIwPsfD__r",
+      "tools": "Game Maker: Studio",
+      "platforms": "Android"
+    },
+    {
+      "name": "Snake The Game",
+      "thumbnail": "games/snakes.png",
+      "img": [
+        "games/snakes3.png",
+        "games/snakes2.png",
+        "games/snakes1.png"
+      ],
+      "created": "2019-03-26",
+      "genre": [
+        "arcade"
+      ],
+      "url": "https://ayammayam987.itch.io/snake-the-game",
+      "tools": "Unity",
+      "platforms": "Web"
+    },
+    {
+      "name": "Katamino The Game",
+      "thumbnail": "games/katamino1.png",
+      "img": [
+        "games/katamino1.png",
+        "games/katamino2.png",
+        "games/katamino3.png",
+        "games/katamino4.png",
+        "games/katamino5.png",
+        "games/katamino6.png"
+      ],
+      "created": "2019-08-01",
+      "genre": [
+        "casual",
+        "puzzle"
+      ],
+      "url": "/#",
+      "tools": "Game Maker Studio 2",
+      "platforms": "Android"
+    },
+    {
+      "name": "App Attack",
+      "desc": "A LevelUp KL Game Jam 2019 Project",
+      "thumbnail": "games/appatt1.PNG",
+      "img": [
+        "games/appatt1.PNG",
+        "games/appatt2.PNG",
+        "games/appatt3.PNG",
+        "games/appatt4.PNG",
+        "games/appatt5.PNG"
+      ],
+      "created": "2019-11-03",
+      "genre": [
+        "casual",
+        "arcade",
+        "clicker"
+      ],
+      "url": "https://drive.google.com/open?id=1QE5K-3sT1EbBZbI8kU1OJ15fcoij_HYK",
+      "tools": "Game Maker Studio 2",
+      "platforms": "Windows"
+    },
+    {
+      "name": "02022020",
+      "desc": "A Global Game Jam 2020 Project",
+      "thumbnail": "games/ggj20-01.png",
+      "img": [
+        "games/ggj20-01.png",
+        "games/ggj20-02.PNG",
+        "games/ggj20-03.png"
+      ],
+      "created": "2020-02-02",
+      "genre": [
+        "3D",
+        "TDS",
+        "Action"
+      ],
+      "url": "https://globalgamejam.org/2020/games/02022020-9",
+      "tools": "Unity",
+      "platforms": "Windows"
+    },
+    {
+      "name": "Flying Witch",
+      "thumbnail": "games/fw1.jpeg",
+      "img": [
+        "games/fw2.png",
+        "games/fw3.png",
+        "games/fw4.png",
+        "games/fw5.png",
+        "games/fw6.png"
+      ],
+      "created": "2020-02-28",
+      "genre": [
+        "Tower Deffense",
+        "arcade",
+        "shooter"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.D2.flyingwitch",
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/w2odLLR_EtI"
+      },
+      "tools": "Game Maker Studio 2",
+      "platforms": "Android"
+    },
+    {
+      "name": "The Plague: Save The World",
+      "thumbnail": "games/plague1.jpeg",
+      "img": [
+        "games/plague2.jpeg",
+        "games/plague3.jpeg",
+        "games/plague4.jpeg",
+        "games/plague5.jpeg"
+      ],
+      "created": "2020-04-11",
+      "genre": [
+        "casual",
+        "arcade",
+        "clicker"
+      ],
+      "url": "https://drive.google.com/file/d/1HuT8MgRIxLeZglFKMbtReDwI-ik5jrc-/view?usp=sharing",
+      "tools": "Game Maker Studio 2",
+      "platforms": "Android"
+    },
+    {
+      "name": "Last Dance",
+      "thumbnail": "games/tld1.png",
+      "img": [
+        "games/tld2.png",
+        "games/tld3.png",
+        "games/tld4.png",
+        "games/tld5.png"
+      ],
+      "created": "2020-05-01",
+      "genre": [
+        "casual",
+        "arcade",
+        "clicker"
+      ],
+      "url": "https://drive.google.com/file/d/1B-dE6xLI3N5j8MoM3IoqmDOBCWcu2Ass/view?usp=sharing",
+      "video": {
+        "host": "youtube",
+        "link": "https://drive.google.com/file/d/1ATxZFjhCg-yI3P4_iHJ92x3DJqSw_6d5/preview"
+      },
+      "tools": "Unity",
+      "platforms": "Android"
+    },
+    {
+      "name": "Sate Rush",
+      "thumbnail": "games/sate1.png",
+      "img": [
+        "games/sate2.png",
+        "games/sate1.png",
+        "games/sate3.png"
+      ],
+      "created": "2020-08-10",
+      "genre": [
+        "casual",
+        "arcade"
+      ],
+      "achievement": "Best Game Concept - 2nd IGSI Game Jam",
+      "url": "https://drive.google.com/file/d/1b8sLK2mbfOB_vE5KnSdMg8zxLX03EPIj/view?usp=sharing",
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/BxExMk7VX8g"
+      },
+      "tools": "Unity",
+      "platforms": "Android"
+    },
+    {
+      "name": "Dirgantara Airplane Simulator Builder",
+      "thumbnail": "games/dabs.png",
+      "img": [
+        "games/dabs1.png",
+        "games/dabs2.png",
+        "games/dabs3.png"
+      ],
+      "created": "2020-11-02",
+      "genre": [
+        "casual",
+        "puzzle"
+      ],
+      "url": "https://ayammayam987.itch.io/dirgantara-aircraft-builder-simulator",
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/51PS3J0dYH4"
+      },
+      "tools": "Unity",
+      "platforms": "Android"
+    },
+    {
+      "name": "Hangman",
+      "thumbnail": "games/hangman1.jpg",
+      "img": [
+        "games/hangman2.jpg",
+        "games/hangman3.jpg",
+        "games/hangman4.jpg",
+        "games/hangman1.jpg"
+      ],
+      "created": "2020-11-06",
+      "genre": [
+        "casual",
+        "arcade",
+        "clicker"
+      ],
+      "tools": "Unity",
+      "platforms": "Android"
+    },
+    {
+      "name": "Typing Game",
+      "thumbnail": "games/prisonpopper7.png",
+      "img": [
+        "games/prisonpopper.png",
+        "games/prisonpopper2.png",
+        "games/prisonpopper3.png",
+        "games/prisonpopper4.png",
+        "games/prisonpopper5.png",
+        "games/prisonpopper6.png",
+        "games/prisonpopper7.png",
+        "games/prisonpopper8.png"
+      ],
+      "created": "2020-12-15",
+      "genre": [
+        "word",
+        "action"
+      ],
+      "tools": "Unity",
+      "platforms": "Web"
+    },
+    {
+      "name": "Sokoban (Clone)",
+      "thumbnail": "games/sokoban3.PNG",
+      "img": [
+        "games/sokoban1.PNG",
+        "games/sokoban2.PNG",
+        "games/sokoban3.PNG"
+      ],
+      "created": "2021-03-03",
+      "genre": [
+        "puzzle"
+      ],
+      "url": "https://mariefismi02.github.io/sokoban/",
+      "tools": "Phaser 3",
+      "platforms": "Web"
+    },
+    {
+      "name": "BioCross",
+      "thumbnail": "games/BioCross1.jpg",
+      "img": [
+        "games/BioCross1.jpg",
+        "games/BioCross2.png"
+      ],
+      "created": "2021-10-24",
+      "genre": [
+        "puzzle"
+      ],
+      "url": "https://drive.google.com/file/d/13NX6O74P-UjIM0beLvczj6GxyFvCq2DX/view?usp=sharing",
+      "tools": "Game Maker Studio 2",
+      "platforms": "Android"
+    },
+    {
+      "name": "Monobiling",
+      "desc": "A monopoly-like game for students",
+      "thumbnail": "games/monobiling_3.jpg",
+      "img": [
+        "games/monobiling_1.jpg",
+        "games/monobiling_2.jpg",
+        "games/monobiling_4.jpg",
+        "games/monobiling_5.jpg"
+      ],
+      "created": "2022-07-22",
+      "genre": [
+        "puzzle",
+        "board game",
+        "turn-based"
+      ],
+      "url": "https://drive.google.com/file/d/1kTkk9XbzNZdgf5lCtpYIVyb5_jfqcOr3/view?usp=sharing",
+      "tools": "Unity",
+      "platforms": "Windows"
+    },
+    {
+      "name": "Adventuring Physics",
+      "desc": "A game to help understand physics",
+      "thumbnail": "games/physics_1.jpg",
+      "img": [
+        "games/physics_2.jpg",
+        "games/physics_3.jpg",
+        "games/physics_4.jpg",
+        "games/physics_5.jpg",
+        "games/physics_6.jpg"
+      ],
+      "created": "2022-08-07",
+      "genre": [
+        "puzzle",
+        "board game",
+        "turn-based"
+      ],
+      "url": "https://drive.google.com/file/d/1lpvtJBBDSFPakgx4QLpkpvKdPerc6mCq/view?usp=sharing",
+      "tools": "Unity",
+      "platforms": "Android"
+    },
+    {
+      "name": "Riftstrom",
+      "desc": "Previously worked as Frontend Programmer, focusing on outgame (non-gameplay) features during development.",
+      "thumbnail": "games/RIFTSTORM0.webp",
+      "img": [
+        "games/RIFTSTORM1.webp",
+        "games/RIFTSTORM2.webp",
+        "games/RIFTSTORM3.webp",
+        "games/RIFTSTORM4.webp"
+      ],
+      "created": "2022 - Ongoing",
+      "genre": [
+        "Action RPG",
+        "Looter Shooter",
+        "Roguelite",
+        "Multiplayer"
+      ],
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/CzZxaOBjN3s?si=XfFY9rieGIzDhcz7"
+      },
+      "url": "https://www.playriftstorm.com/",
+      "tools": "Unity",
+      "platforms": "Windows (Steam)"
+    }
   ],
   "web": [
-    { "name": "Pokedex PWA", "thumbnail": "web/pokedex_pwa1.png", "img": ["web/pokedex_pwa1.png", "web/pokedex_pwa2.png", "web/pokedex_pwa3.png"], "created": "2019-03-02", "url": "https://poke-dex-id.web.app", "tools": "HTML, CSS, Vanilla JS", "desc": "Simple PWA Project with Vanilla JS" },
-    { "name": "My Portfolio", "thumbnail": "web/portfolio_1.png", "img": ["web/portfolio_1.png", "web/portfolio_2.png", "web/portfolio_3.png"], "created": "2019-03-02", "url": "https://mariefismi02.github.io/portofolio", "tools": "VueJS (Nuxt, Vuetify)", "desc": "Portfolio Page made with VueJs(Nuxt + Vuetify)" },
-    { "name": "LDK Al-Fath Tel-U Official Site", "thumbnail": "web/alfathweb1.PNG", "img": ["web/alfathweb2.PNG", "web/alfathweb3.PNG", "web/alfathweb4.PNG"], "created": "2018-08-18", "url": "https://ldkalfath.orgs.telkomuniversity.ac.id/", "tools": "wordpress.org", "achievement": "The Best Students Organization site of the Year 2018 at Telkom University", "desc": "Students Organization site made with Wordpress" },
-{ "name": "New Pokedex PWA", "thumbnail": "web/new_pokedex1.png", "img": ["web/new_pokedex1.png", "web/new_pokedex2.png", "web/new_pokedex3.png", "web/new_pokedex4.png"], "created": "2026-04-20", "url": "https://pokedex-id.web.app", "tools": "React, Vite", "desc": "Recreated Pokedex PWA with modern UI using React & Vite" }
+    {
+      "name": "Pokedex PWA",
+      "thumbnail": "web/pokedex_pwa1.png",
+      "img": [
+        "web/pokedex_pwa1.png",
+        "web/pokedex_pwa2.png",
+        "web/pokedex_pwa3.png"
+      ],
+      "created": "2019-03-02",
+      "url": "https://poke-dex-id.web.app",
+      "tools": "HTML, CSS, Vanilla JS",
+      "desc": "Simple PWA Project with Vanilla JS"
+    },
+    {
+      "name": "My Portfolio",
+      "thumbnail": "web/portfolio_1.png",
+      "img": [
+        "web/portfolio_1.png",
+        "web/portfolio_2.png",
+        "web/portfolio_3.png"
+      ],
+      "created": "2019-03-02",
+      "url": "https://mariefismi02.github.io/portofolio",
+      "tools": "VueJS (Nuxt, Vuetify)",
+      "desc": "Portfolio Page made with VueJs(Nuxt + Vuetify)"
+    },
+    {
+      "name": "LDK Al-Fath Tel-U Official Site",
+      "thumbnail": "web/alfathweb1.PNG",
+      "img": [
+        "web/alfathweb2.PNG",
+        "web/alfathweb3.PNG",
+        "web/alfathweb4.PNG"
+      ],
+      "created": "2018-08-18",
+      "url": "https://ldkalfath.orgs.telkomuniversity.ac.id/",
+      "tools": "wordpress.org",
+      "achievement": "The Best Students Organization site of the Year 2018 at Telkom University",
+      "desc": "Students Organization site made with Wordpress"
+    },
+    {
+      "name": "New Pokedex PWA",
+      "thumbnail": "web/new_pokedex1.png",
+      "img": [
+        "web/new_pokedex1.png",
+        "web/new_pokedex2.png",
+        "web/new_pokedex3.png",
+        "web/new_pokedex4.png"
+      ],
+      "created": "2026-04-20",
+      "url": "https://pokedex-id.web.app",
+      "tools": "React, Vite",
+      "desc": "Recreated Pokedex PWA with modern UI using React & Vite"
+    },
+    {
+      "name": "My Kisah Chatbot",
+      "thumbnail": "web/mykisah1.png",
+      "img": [
+        "web/mykisah1.png",
+        "web/mykisah2.png",
+        "web/mykisah3.png",
+        "web/mykisah4.png"
+      ],
+      "created": "2026-04-23",
+      "url": "https://mykisah-chatbot.web.app/",
+      "tools": "React, Vite, Gemini API, TailwindCSS",
+      "desc": "A waifu anime chatbot with tsundere personality"
+    },
+    {
+      "name": "SubTranslate",
+      "thumbnail": "web/subtrans1.png",
+      "img": [
+        "web/subtrans1.png",
+        "web/subtrans2.png",
+        "web/subtrans3.png",
+        "web/subtrans4.png"
+      ],
+      "created": "2026-04-25",
+      "url": "https://subtrans-d44e6.web.app",
+      "tools": "Vanilla JS, Google Translate API, HTML, CSS",
+      "desc": "A simple subtitle translation web application"
+    }
   ],
   "arvr": [
-    { "name": "Kebunku AR", "thumbnail": "arvr/ar_kebunku1.png", "img": ["arvr/ar_kebunku1.png", "arvr/ar_kebunku3.png", "arvr/ar_kebunku2.png"], "created": "2019-02-25", "tools": "Unity 2019, Vuforia SDK, Antares IoT Platform", "desc": "An AR Application for Garden Monitoring" },
-    { "name": "Computer Generation", "thumbnail": "arvr/ar_computergen1.png", "img": ["arvr/ar_computergen1.png", "arvr/ar_computergen2.png", "arvr/ar_computergen3.png"], "created": "2019-04-27", "tools": "Unity 2019, Vuforia SDK", "desc": "An AR Application Showing Generations of Computer" },
-    { "name": "VR Bike (Demo)", "thumbnail": "arvr/vrbike_1.PNG", "img": ["arvr/vrbike_2.PNG", "arvr/vrbike_1.PNG"], "created": "2019-05-29", "tools": "Unity 2019, Steam VR, Arduino", "desc": "A VR Game connected with a Bike", "video": { "host": "local", "link": "arvr/vrbike_1.mp4" } },
-    { "name": "Bakti BCA App", "thumbnail": "arvr/bca2.png", "img": ["arvr/bca1.png", "arvr/bca2.png", "arvr/bca3.png", "arvr/bca4.png", "arvr/bca5.png", "arvr/bca6.png"], "created": "2019-12-04", "tools": "Unity 2019, EasyAR SDK", "desc": "Bakti BCA Mobile App with AR Verification" },
-    { "name": "AR Simulasi Shalat", "thumbnail": "arvr/arsolat1.jpeg", "img": ["arvr/arsolat1.jpeg", "arvr/arsolat2.jpeg", "arvr/arsolat3.jpeg"], "created": "2020-05-15", "tools": "Unity 2019, Vuforia SDK", "desc": "An App for Simulating Correct Prayer Position" },
-    { "name": "AR GPS Situ Gunung", "thumbnail": "arvr/argps2.jpg", "img": ["arvr/argps1.jpg", "arvr/argps.jpg", "arvr/argps2.jpg", "arvr/argps4.jpg"], "created": "2020-12-15", "tools": "Unity 2019, Vuforia SDK, ARFoundation", "desc": "AR Using GPS & Speech to Text" },
-    { "name": "Ayo Mengenal Hewan AR", "thumbnail": "arvr/MengenalHewanAR2.jpg", "img": ["arvr/MengenalHewanAR1.jpg", "arvr/MengenalHewanAR2.jpg", "arvr/MengenalHewanAR3.jpg", "arvr/MengenalHewanAR4.jpg"], "created": "2021-05-05", "tools": "Unity 2019, Vuforia SDK", "desc": "Encyclopedia of Animals" },
-    { "name": "Solar System VR", "thumbnail": "arvr/SolarSystemVR1.png", "img": ["arvr/SolarSystemVR1.png", "arvr/SolarSystemVR2.png", "arvr/SolarSystemVR3.png"], "created": "2024-01-29", "tools": "Unity 2022, Cardboard VR", "desc": "A Milky Way Solar System Simulation", "video": { "host": "local", "link": "arvr/VRSolarSystem.mp4" } },
-    { "name": "Museum Wayang Pandawa VR", "thumbnail": "arvr/WayangVR1.png", "img": ["arvr/WayangVR4.png", "arvr/WayangVR2.png", "arvr/WayangVR3.png"], "created": "2024-02-04", "tools": "Unity 2022, Cardboard VR", "desc": "A Wayang Museum Exhibition Simulation", "video": { "host": "local", "link": "arvr/VRWayang.mp4" } }
+    {
+      "name": "Kebunku AR",
+      "thumbnail": "arvr/ar_kebunku1.png",
+      "img": [
+        "arvr/ar_kebunku1.png",
+        "arvr/ar_kebunku3.png",
+        "arvr/ar_kebunku2.png"
+      ],
+      "created": "2019-02-25",
+      "tools": "Unity 2019, Vuforia SDK, Antares IoT Platform",
+      "desc": "An AR Application for Garden Monitoring"
+    },
+    {
+      "name": "Computer Generation",
+      "thumbnail": "arvr/ar_computergen1.png",
+      "img": [
+        "arvr/ar_computergen1.png",
+        "arvr/ar_computergen2.png",
+        "arvr/ar_computergen3.png"
+      ],
+      "created": "2019-04-27",
+      "tools": "Unity 2019, Vuforia SDK",
+      "desc": "An AR Application Showing Generations of Computer"
+    },
+    {
+      "name": "VR Bike (Demo)",
+      "thumbnail": "arvr/vrbike_1.PNG",
+      "img": [
+        "arvr/vrbike_2.PNG",
+        "arvr/vrbike_1.PNG"
+      ],
+      "created": "2019-05-29",
+      "tools": "Unity 2019, Steam VR, Arduino",
+      "desc": "A VR Game connected with a Bike",
+      "video": {
+        "host": "local",
+        "link": "arvr/vrbike_1.mp4"
+      }
+    },
+    {
+      "name": "Bakti BCA App",
+      "thumbnail": "arvr/bca2.png",
+      "img": [
+        "arvr/bca1.png",
+        "arvr/bca2.png",
+        "arvr/bca3.png",
+        "arvr/bca4.png",
+        "arvr/bca5.png",
+        "arvr/bca6.png"
+      ],
+      "created": "2019-12-04",
+      "tools": "Unity 2019, EasyAR SDK",
+      "desc": "Bakti BCA Mobile App with AR Verification"
+    },
+    {
+      "name": "AR Simulasi Shalat",
+      "thumbnail": "arvr/arsolat1.jpeg",
+      "img": [
+        "arvr/arsolat1.jpeg",
+        "arvr/arsolat2.jpeg",
+        "arvr/arsolat3.jpeg"
+      ],
+      "created": "2020-05-15",
+      "tools": "Unity 2019, Vuforia SDK",
+      "desc": "An App for Simulating Correct Prayer Position"
+    },
+    {
+      "name": "AR GPS Situ Gunung",
+      "thumbnail": "arvr/argps2.jpg",
+      "img": [
+        "arvr/argps1.jpg",
+        "arvr/argps.jpg",
+        "arvr/argps2.jpg",
+        "arvr/argps4.jpg"
+      ],
+      "created": "2020-12-15",
+      "tools": "Unity 2019, Vuforia SDK, ARFoundation",
+      "desc": "AR Using GPS & Speech to Text"
+    },
+    {
+      "name": "Ayo Mengenal Hewan AR",
+      "thumbnail": "arvr/MengenalHewanAR2.jpg",
+      "img": [
+        "arvr/MengenalHewanAR1.jpg",
+        "arvr/MengenalHewanAR2.jpg",
+        "arvr/MengenalHewanAR3.jpg",
+        "arvr/MengenalHewanAR4.jpg"
+      ],
+      "created": "2021-05-05",
+      "tools": "Unity 2019, Vuforia SDK",
+      "desc": "Encyclopedia of Animals"
+    },
+    {
+      "name": "Solar System VR",
+      "thumbnail": "arvr/SolarSystemVR1.png",
+      "img": [
+        "arvr/SolarSystemVR1.png",
+        "arvr/SolarSystemVR2.png",
+        "arvr/SolarSystemVR3.png"
+      ],
+      "created": "2024-01-29",
+      "tools": "Unity 2022, Cardboard VR",
+      "desc": "A Milky Way Solar System Simulation",
+      "video": {
+        "host": "local",
+        "link": "arvr/VRSolarSystem.mp4"
+      }
+    },
+    {
+      "name": "Museum Wayang Pandawa VR",
+      "thumbnail": "arvr/WayangVR1.png",
+      "img": [
+        "arvr/WayangVR4.png",
+        "arvr/WayangVR2.png",
+        "arvr/WayangVR3.png"
+      ],
+      "created": "2024-02-04",
+      "tools": "Unity 2022, Cardboard VR",
+      "desc": "A Wayang Museum Exhibition Simulation",
+      "video": {
+        "host": "local",
+        "link": "arvr/VRWayang.mp4"
+      }
+    }
   ],
   "design": [
-    { "name": "Berhiaskan Iman ditengah Kehidupan", "thumbnail": "design/poster_wif.png", "created": "2019-02-28", "tools": "Photoshop", "desc": "Widyatama Islamic Festifal 2019 Poster", "achievement": "Runner Up of Poster Competition at Widyatama Islamic Fest" },
-    { "name": "Trauma Healing Pasca Bencana", "thumbnail": "design/poster_epidemic.png", "created": "2019-04-14", "tools": "Photoshop", "desc": "Epidemic Poster Competition" },
-    { "name": "Revolusi Industri untuk Pendidikan Indonesia", "thumbnail": "design/poster_kmp.png", "created": "2019-04-29", "tools": "Photoshop", "desc": "KMP Jatim Poster Competition" },
-    { "name": "Generasi Millenial Muslim yang Berakhlakul Karimah", "thumbnail": "design/poster_ramadhanbraw.jpg", "created": "2019-04-07", "tools": "Photoshop", "desc": "Ramadhan Brawijaya Poster Competition" }
+    {
+      "name": "Berhiaskan Iman ditengah Kehidupan",
+      "thumbnail": "design/poster_wif.png",
+      "created": "2019-02-28",
+      "tools": "Photoshop",
+      "desc": "Widyatama Islamic Festifal 2019 Poster",
+      "achievement": "Runner Up of Poster Competition at Widyatama Islamic Fest"
+    },
+    {
+      "name": "Trauma Healing Pasca Bencana",
+      "thumbnail": "design/poster_epidemic.png",
+      "created": "2019-04-14",
+      "tools": "Photoshop",
+      "desc": "Epidemic Poster Competition"
+    },
+    {
+      "name": "Revolusi Industri untuk Pendidikan Indonesia",
+      "thumbnail": "design/poster_kmp.png",
+      "created": "2019-04-29",
+      "tools": "Photoshop",
+      "desc": "KMP Jatim Poster Competition"
+    },
+    {
+      "name": "Generasi Millenial Muslim yang Berakhlakul Karimah",
+      "thumbnail": "design/poster_ramadhanbraw.jpg",
+      "created": "2019-04-07",
+      "tools": "Photoshop",
+      "desc": "Ramadhan Brawijaya Poster Competition"
+    }
   ],
   "mobile": [
-    { "name": "Message Hiding", "thumbnail": "mobile/messagehiding1.PNG", "img": ["mobile/messagehiding1.PNG", "mobile/messagehiding2.PNG", "mobile/messagehiding3.PNG", "mobile/messagehiding4.PNG", "mobile/messagehiding5.PNG"], "created": "2019-07-08", "tools": "Android Studio, Kotlin", "desc": "An Android App for hiding message in an image. This is also the final project of my college." },
-    { "name": "E-Berita", "thumbnail": "mobile/eberita1.png", "img": ["mobile/eberita1.png", "mobile/eberita3.png", "mobile/eberita2.png"], "created": "2020-07-11", "tools": "React Native", "desc": "Simple News App for reading news." }
+    {
+      "name": "Message Hiding",
+      "thumbnail": "mobile/messagehiding1.PNG",
+      "img": [
+        "mobile/messagehiding1.PNG",
+        "mobile/messagehiding2.PNG",
+        "mobile/messagehiding3.PNG",
+        "mobile/messagehiding4.PNG",
+        "mobile/messagehiding5.PNG"
+      ],
+      "created": "2019-07-08",
+      "tools": "Android Studio, Kotlin",
+      "desc": "An Android App for hiding message in an image. This is also the final project of my college."
+    },
+    {
+      "name": "E-Berita",
+      "thumbnail": "mobile/eberita1.png",
+      "img": [
+        "mobile/eberita1.png",
+        "mobile/eberita3.png",
+        "mobile/eberita2.png"
+      ],
+      "created": "2020-07-11",
+      "tools": "React Native",
+      "desc": "Simple News App for reading news."
+    }
   ],
   "categories": [
-    { "name": "Games", "icon": "fas fa-gamepad", "disabled": true },
-    { "name": "Web", "icon": "fas fa-globe", "disabled": false },
-    { "name": "AR/VR", "icon": "fas fa-cubes", "disabled": false },
-    { "name": "Mobile", "icon": "fas fa-mobile-alt", "disabled": false },
-    { "name": "Design", "icon": "fas fa-palette", "disabled": false },
-    { "name": "Others", "icon": "fas fa-file-alt", "disabled": false }
+    {
+      "name": "Games",
+      "icon": "fas fa-gamepad",
+      "disabled": true
+    },
+    {
+      "name": "Web",
+      "icon": "fas fa-globe",
+      "disabled": false
+    },
+    {
+      "name": "AR/VR",
+      "icon": "fas fa-cubes",
+      "disabled": false
+    },
+    {
+      "name": "Mobile",
+      "icon": "fas fa-mobile-alt",
+      "disabled": false
+    },
+    {
+      "name": "Design",
+      "icon": "fas fa-palette",
+      "disabled": false
+    },
+    {
+      "name": "Others",
+      "icon": "fas fa-file-alt",
+      "disabled": false
+    }
   ]
 }
