@@ -14,7 +14,10 @@
       ],
       "url": "https://drive.google.com/file/d/0B0C1lKgg29ifdWFWdTE2NlJZcUE/view?ts=5aa799d9",
       "tools": "Construct 2",
-      "platforms": "Windows"
+      "platforms": "Windows",
+      "sections": [
+        "Game Jam"
+      ]
     },
     {
       "name": "Kuis Bergambar",
@@ -38,7 +41,11 @@
       },
       "url": "https://play.google.com/store/apps/details?id=com.gd6.kuis_bergambar",
       "tools": "Game Maker: Studio",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Competition",
+        "Published"
+      ]
     },
     {
       "name": "Juragan Kolak",
@@ -61,7 +68,10 @@
         "host": "youtube",
         "link": "https://youtube.com/embed/vBi1y1an_8U"
       },
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Published"
+      ]
     },
     {
       "name": "Kuis Bergambar Edisi Sepakbola",
@@ -83,7 +93,10 @@
         "host": "youtube",
         "link": "https://youtube.com/embed/dxLilTn7tHc"
       },
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Published"
+      ]
     },
     {
       "name": "Color Ball",
@@ -104,7 +117,10 @@
         "host": "youtube",
         "link": "https://youtube.com/embed/a4E-d8eoapM"
       },
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Published"
+      ]
     },
     {
       "name": "Irama Makanan",
@@ -126,7 +142,11 @@
       },
       "url": "https://drive.google.com/open?id=1NHAyPPexhrhTCKF4O_wcjPrIwPsfD__r",
       "tools": "Game Maker: Studio",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Competition",
+        "Featured"
+      ]
     },
     {
       "name": "Snake The Game",
@@ -142,7 +162,8 @@
       ],
       "url": "https://ayammayam987.itch.io/snake-the-game",
       "tools": "Unity",
-      "platforms": "Web"
+      "platforms": "Web",
+      "sections": []
     },
     {
       "name": "Katamino The Game",
@@ -162,11 +183,14 @@
       ],
       "url": "/#",
       "tools": "Game Maker Studio 2",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Competition",
+        "Featured"
+      ]
     },
     {
       "name": "App Attack",
-      "desc": "A LevelUp KL Game Jam 2019 Project",
       "thumbnail": "games/appatt1.PNG",
       "img": [
         "games/appatt1.PNG",
@@ -183,11 +207,13 @@
       ],
       "url": "https://drive.google.com/open?id=1QE5K-3sT1EbBZbI8kU1OJ15fcoij_HYK",
       "tools": "Game Maker Studio 2",
-      "platforms": "Windows"
+      "platforms": "Windows",
+      "sections": [
+        "Game Jam"
+      ]
     },
     {
       "name": "02022020",
-      "desc": "A Global Game Jam 2020 Project",
       "thumbnail": "games/ggj20-01.png",
       "img": [
         "games/ggj20-01.png",
@@ -196,13 +222,16 @@
       ],
       "created": "2020-02-02",
       "genre": [
-        "3D",
+        "3d",
         "TDS",
         "Action"
       ],
       "url": "https://globalgamejam.org/2020/games/02022020-9",
       "tools": "Unity",
-      "platforms": "Windows"
+      "platforms": "Windows",
+      "sections": [
+        "Game Jam"
+      ]
     },
     {
       "name": "Flying Witch",
@@ -226,7 +255,11 @@
         "link": "https://www.youtube.com/embed/w2odLLR_EtI"
       },
       "tools": "Game Maker Studio 2",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Published",
+        "Featured"
+      ]
     },
     {
       "name": "The Plague: Save The World",
@@ -245,7 +278,10 @@
       ],
       "url": "https://drive.google.com/file/d/1HuT8MgRIxLeZglFKMbtReDwI-ik5jrc-/view?usp=sharing",
       "tools": "Game Maker Studio 2",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Game Jam"
+      ]
     },
     {
       "name": "Last Dance",
@@ -268,7 +304,10 @@
         "link": "https://drive.google.com/file/d/1ATxZFjhCg-yI3P4_iHJ92x3DJqSw_6d5/preview"
       },
       "tools": "Unity",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Game Jam"
+      ]
     },
     {
       "name": "Sate Rush",
@@ -290,7 +329,11 @@
         "link": "https://www.youtube.com/embed/BxExMk7VX8g"
       },
       "tools": "Unity",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Game Jam",
+        "Featured"
+      ]
     },
     {
       "name": "Dirgantara Airplane Simulator Builder",
@@ -311,7 +354,10 @@
         "link": "https://www.youtube.com/embed/51PS3J0dYH4"
       },
       "tools": "Unity",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": [
+        "Game Jam"
+      ]
     },
     {
       "name": "Hangman",
@@ -329,7 +375,8 @@
         "clicker"
       ],
       "tools": "Unity",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": []
     },
     {
       "name": "Typing Game",
@@ -350,7 +397,8 @@
         "action"
       ],
       "tools": "Unity",
-      "platforms": "Web"
+      "platforms": "Web",
+      "sections": []
     },
     {
       "name": "Sokoban (Clone)",
@@ -366,7 +414,8 @@
       ],
       "url": "https://mariefismi02.github.io/sokoban/",
       "tools": "Phaser 3",
-      "platforms": "Web"
+      "platforms": "Web",
+      "sections": []
     },
     {
       "name": "BioCross",
@@ -381,7 +430,8 @@
       ],
       "url": "https://drive.google.com/file/d/13NX6O74P-UjIM0beLvczj6GxyFvCq2DX/view?usp=sharing",
       "tools": "Game Maker Studio 2",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": []
     },
     {
       "name": "Monobiling",
@@ -401,7 +451,8 @@
       ],
       "url": "https://drive.google.com/file/d/1kTkk9XbzNZdgf5lCtpYIVyb5_jfqcOr3/view?usp=sharing",
       "tools": "Unity",
-      "platforms": "Windows"
+      "platforms": "Windows",
+      "sections": []
     },
     {
       "name": "Adventuring Physics",
@@ -422,7 +473,8 @@
       ],
       "url": "https://drive.google.com/file/d/1lpvtJBBDSFPakgx4QLpkpvKdPerc6mCq/view?usp=sharing",
       "tools": "Unity",
-      "platforms": "Android"
+      "platforms": "Android",
+      "sections": []
     },
     {
       "name": "Riftstrom",
@@ -447,23 +499,14 @@
       },
       "url": "https://www.playriftstorm.com/",
       "tools": "Unity",
-      "platforms": "Windows (Steam)"
+      "platforms": "Windows (Steam)",
+      "sections": [
+        "Published",
+        "Featured"
+      ]
     }
   ],
   "web": [
-    {
-      "name": "Pokedex PWA",
-      "thumbnail": "web/pokedex_pwa1.png",
-      "img": [
-        "web/pokedex_pwa1.png",
-        "web/pokedex_pwa2.png",
-        "web/pokedex_pwa3.png"
-      ],
-      "created": "2019-03-02",
-      "url": "https://poke-dex-id.web.app",
-      "tools": "HTML, CSS, Vanilla JS",
-      "desc": "Simple PWA Project with Vanilla JS"
-    },
     {
       "name": "My Portfolio",
       "thumbnail": "web/portfolio_1.png",
@@ -475,7 +518,8 @@
       "created": "2019-03-02",
       "url": "https://mariefismi02.github.io/portofolio",
       "tools": "VueJS (Nuxt, Vuetify)",
-      "desc": "Portfolio Page made with VueJs(Nuxt + Vuetify)"
+      "desc": "Portfolio Page made with VueJs(Nuxt + Vuetify)",
+      "sections": []
     },
     {
       "name": "LDK Al-Fath Tel-U Official Site",
@@ -489,10 +533,13 @@
       "url": "https://ldkalfath.orgs.telkomuniversity.ac.id/",
       "tools": "wordpress.org",
       "achievement": "The Best Students Organization site of the Year 2018 at Telkom University",
-      "desc": "Students Organization site made with Wordpress"
+      "desc": "Students Organization site made with Wordpress",
+      "sections": [
+        "Published"
+      ]
     },
     {
-      "name": "New Pokedex PWA",
+      "name": "(New) Pokedex PWA",
       "thumbnail": "web/new_pokedex1.png",
       "img": [
         "web/new_pokedex1.png",
@@ -503,7 +550,8 @@
       "created": "2026-04-20",
       "url": "https://pokedex-id.web.app",
       "tools": "React, Vite",
-      "desc": "Recreated Pokedex PWA with modern UI using React & Vite"
+      "desc": "Recreated Pokedex PWA with modern UI using React & Vite",
+      "sections": []
     },
     {
       "name": "My Kisah Chatbot",
@@ -517,7 +565,10 @@
       "created": "2026-04-23",
       "url": "https://mykisah-chatbot.web.app/",
       "tools": "React, Vite, Gemini API, TailwindCSS",
-      "desc": "A waifu anime chatbot with tsundere personality"
+      "desc": "A waifu anime chatbot with tsundere personality",
+      "sections": [
+        "Featured"
+      ]
     },
     {
       "name": "SubTranslate",
@@ -545,7 +596,8 @@
       ],
       "created": "2019-02-25",
       "tools": "Unity 2019, Vuforia SDK, Antares IoT Platform",
-      "desc": "An AR Application for Garden Monitoring"
+      "desc": "An AR Application for Garden Monitoring",
+      "sections": []
     },
     {
       "name": "Computer Generation",
@@ -557,7 +609,8 @@
       ],
       "created": "2019-04-27",
       "tools": "Unity 2019, Vuforia SDK",
-      "desc": "An AR Application Showing Generations of Computer"
+      "desc": "An AR Application Showing Generations of Computer",
+      "sections": []
     },
     {
       "name": "VR Bike (Demo)",
@@ -572,7 +625,8 @@
       "video": {
         "host": "local",
         "link": "arvr/vrbike_1.mp4"
-      }
+      },
+      "sections": []
     },
     {
       "name": "Bakti BCA App",
@@ -587,7 +641,8 @@
       ],
       "created": "2019-12-04",
       "tools": "Unity 2019, EasyAR SDK",
-      "desc": "Bakti BCA Mobile App with AR Verification"
+      "desc": "Bakti BCA Mobile App with AR Verification",
+      "sections": []
     },
     {
       "name": "AR Simulasi Shalat",
@@ -599,7 +654,8 @@
       ],
       "created": "2020-05-15",
       "tools": "Unity 2019, Vuforia SDK",
-      "desc": "An App for Simulating Correct Prayer Position"
+      "desc": "An App for Simulating Correct Prayer Position",
+      "sections": []
     },
     {
       "name": "AR GPS Situ Gunung",
@@ -612,7 +668,8 @@
       ],
       "created": "2020-12-15",
       "tools": "Unity 2019, Vuforia SDK, ARFoundation",
-      "desc": "AR Using GPS & Speech to Text"
+      "desc": "AR Using GPS & Speech to Text",
+      "sections": []
     },
     {
       "name": "Ayo Mengenal Hewan AR",
@@ -625,7 +682,8 @@
       ],
       "created": "2021-05-05",
       "tools": "Unity 2019, Vuforia SDK",
-      "desc": "Encyclopedia of Animals"
+      "desc": "Encyclopedia of Animals",
+      "sections": []
     },
     {
       "name": "Solar System VR",
@@ -641,7 +699,10 @@
       "video": {
         "host": "local",
         "link": "arvr/VRSolarSystem.mp4"
-      }
+      },
+      "sections": [
+        "Featured"
+      ]
     },
     {
       "name": "Museum Wayang Pandawa VR",
@@ -657,38 +718,64 @@
       "video": {
         "host": "local",
         "link": "arvr/VRWayang.mp4"
-      }
+      },
+      "sections": []
     }
   ],
-  "design": [
+  "others": [
     {
       "name": "Berhiaskan Iman ditengah Kehidupan",
       "thumbnail": "design/poster_wif.png",
       "created": "2019-02-28",
       "tools": "Photoshop",
       "desc": "Widyatama Islamic Festifal 2019 Poster",
-      "achievement": "Runner Up of Poster Competition at Widyatama Islamic Fest"
+      "achievement": "Runner Up of Poster Competition at Widyatama Islamic Fest",
+      "sections": ["Design"]
     },
     {
       "name": "Trauma Healing Pasca Bencana",
       "thumbnail": "design/poster_epidemic.png",
       "created": "2019-04-14",
       "tools": "Photoshop",
-      "desc": "Epidemic Poster Competition"
+      "desc": "Epidemic Poster Competition",
+      "sections": ["Design"]
     },
     {
       "name": "Revolusi Industri untuk Pendidikan Indonesia",
       "thumbnail": "design/poster_kmp.png",
       "created": "2019-04-29",
       "tools": "Photoshop",
-      "desc": "KMP Jatim Poster Competition"
+      "desc": "KMP Jatim Poster Competition",
+      "sections": ["Design"]
     },
     {
       "name": "Generasi Millenial Muslim yang Berakhlakul Karimah",
       "thumbnail": "design/poster_ramadhanbraw.jpg",
       "created": "2019-04-07",
       "tools": "Photoshop",
-      "desc": "Ramadhan Brawijaya Poster Competition"
+      "desc": "Ramadhan Brawijaya Poster Competition",
+      "sections": ["Design"]
+    },
+    {
+      "name": "PeeLock - Main Theme",
+      "created": "2017-05-02",
+      "type": "audio",
+      "file": "others/audios/gj1.ogg",
+      "sections": ["Audio"]
+    },
+    {
+      "name": "PeeLock - In Game",
+      "created": "2017-05-02",
+      "type": "audio",
+      "file": "others/audios/gj2.ogg",
+      "sections": ["Audio"]
+    },
+    {
+      "name": "PeeLock - Game Over",
+      "created": "2017-05-02",
+      "type": "audio",
+      "file": "others/audios/gj3.ogg",
+      "sections": ["Audio"]
     }
   ],
   "mobile": [
@@ -704,7 +791,8 @@
       ],
       "created": "2019-07-08",
       "tools": "Android Studio, Kotlin",
-      "desc": "An Android App for hiding message in an image. This is also the final project of my college."
+      "desc": "An Android App for hiding message in an image. This is also the final project of my college.",
+      "sections": []
     },
     {
       "name": "E-Berita",
@@ -716,10 +804,16 @@
       ],
       "created": "2020-07-11",
       "tools": "React Native",
-      "desc": "Simple News App for reading news."
+      "desc": "Simple News App for reading news.",
+      "sections": []
     }
   ],
   "categories": [
+    {
+      "name": "All",
+      "icon": "fas fa-star",
+      "disabled": false
+    },
     {
       "name": "Games",
       "icon": "fas fa-gamepad",
@@ -738,11 +832,6 @@
     {
       "name": "Mobile",
       "icon": "fas fa-mobile-alt",
-      "disabled": false
-    },
-    {
-      "name": "Design",
-      "icon": "fas fa-palette",
       "disabled": false
     },
     {
