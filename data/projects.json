@@ -477,7 +477,7 @@
       "sections": []
     },
     {
-      "name": "Riftstrom",
+      "name": "Riftstrom (Demo)",
       "desc": "Previously worked as Frontend Programmer, focusing on outgame (non-gameplay) features during development.",
       "thumbnail": "games/RIFTSTORM0.webp",
       "img": [
@@ -486,7 +486,7 @@
         "games/RIFTSTORM3.webp",
         "games/RIFTSTORM4.webp"
       ],
-      "created": "2022 - Ongoing",
+      "created": "2022-01-01",
       "genre": [
         "Action RPG",
         "Looter Shooter",
@@ -504,6 +504,29 @@
         "Published",
         "Featured"
       ]
+    },
+    {
+      "name": "Gol Hiburan",
+      "desc": "Prototype for a Football TCG made using TCG Engine",
+      "thumbnail": "games/golhiburan1.png",
+      "img": [
+        "games/golhiburan2.png",
+        "games/golhiburan3.png",
+        "games/golhiburan1.png"
+      ],
+      "created": "2026-01-03",
+      "genre": [
+        "Card Game",
+        "Multiplayer",
+        "TCG"
+      ],
+      "video": {
+        "host": "local",
+        "link": "games/golhiburan.mp4"
+      },
+      "tools": "Unity",
+      "platforms": "Windows",
+      "sections": []
     }
   ],
   "web": [
@@ -720,6 +743,23 @@
         "link": "arvr/VRWayang.mp4"
       },
       "sections": []
+    },
+    {
+      "name": "DMZO Spark AR",
+      "thumbnail": "arvr/dmzo1.jpeg",
+      "img": [
+        "arvr/dmzo1.jpeg",
+        "arvr/dmzo2.jpeg",
+        "arvr/dmzo3.jpeg",
+        "arvr/dmzo4.png",
+        "arvr/dmzo5.png"
+      ],
+      "created": "2024-07-15",
+      "tools": "Unity 2022, Vuforia SDK, Firebase",
+      "desc": "An Image Target AR app with CMS to manage content",
+      "sections": [
+        "Published"
+      ]
     }
   ],
   "others": [
@@ -730,7 +770,9 @@
       "tools": "Photoshop",
       "desc": "Widyatama Islamic Festifal 2019 Poster",
       "achievement": "Runner Up of Poster Competition at Widyatama Islamic Fest",
-      "sections": ["Design"]
+      "sections": [
+        "Design"
+      ]
     },
     {
       "name": "Trauma Healing Pasca Bencana",
@@ -738,7 +780,9 @@
       "created": "2019-04-14",
       "tools": "Photoshop",
       "desc": "Epidemic Poster Competition",
-      "sections": ["Design"]
+      "sections": [
+        "Design"
+      ]
     },
     {
       "name": "Revolusi Industri untuk Pendidikan Indonesia",
@@ -746,7 +790,9 @@
       "created": "2019-04-29",
       "tools": "Photoshop",
       "desc": "KMP Jatim Poster Competition",
-      "sections": ["Design"]
+      "sections": [
+        "Design"
+      ]
     },
     {
       "name": "Generasi Millenial Muslim yang Berakhlakul Karimah",
@@ -754,28 +800,36 @@
       "created": "2019-04-07",
       "tools": "Photoshop",
       "desc": "Ramadhan Brawijaya Poster Competition",
-      "sections": ["Design"]
+      "sections": [
+        "Design"
+      ]
     },
     {
       "name": "PeeLock - Main Theme",
       "created": "2017-05-02",
       "type": "audio",
       "file": "others/audios/gj1.ogg",
-      "sections": ["Audio"]
+      "sections": [
+        "Audio"
+      ]
     },
     {
       "name": "PeeLock - In Game",
       "created": "2017-05-02",
       "type": "audio",
       "file": "others/audios/gj2.ogg",
-      "sections": ["Audio"]
+      "sections": [
+        "Audio"
+      ]
     },
     {
       "name": "PeeLock - Game Over",
       "created": "2017-05-02",
       "type": "audio",
       "file": "others/audios/gj3.ogg",
-      "sections": ["Audio"]
+      "sections": [
+        "Audio"
+      ]
     }
   ],
   "mobile": [
