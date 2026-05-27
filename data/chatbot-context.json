@@ -1,0 +1,98 @@
+{
+  "owner": {
+    "name": "Muhammad Arief Ismirianda",
+    "nickname": "Arief",
+    "birthday": "02 November 1999",
+    "title": "Game Developer & Creative Enthusiast",
+    "email": "marief.ismirianda@gmail.com",
+    "hobbies": ["Game", "Football", "Anime", "History", "Pet"],
+    "top_games": ["Pokemon", "Minecraft", "FIFA", "COC"]
+  },
+  "social_media": [
+    { "platform": "Email", "short": "marief.ismirianda@gmail.com", "href": "mailto:marief.ismirianda@gmail.com" },
+    { "platform": "GitHub", "short": "mariefismi02", "href": "https://github.com/mariefismi02" },
+    { "platform": "LinkedIn", "short": "M Arief Ismirianda", "href": "https://www.linkedin.com/in/m-arief-ismirianda-5032b8186/" },
+    { "platform": "Medium", "short": "M Arief Ismirianda", "href": "https://marief-ismirianda.medium.com/" },
+    { "platform": "Instagram", "short": "@mariefismirianda", "href": "https://www.instagram.com/mariefismirianda/" },
+    { "platform": "Facebook", "short": "ismirianda", "href": "https://facebook.com/ismirianda" },
+    { "platform": "YouTube", "short": "M Arief Ismirianda", "href": "https://www.youtube.com/channel/UCH2PxJHYUui-Y3zyo5KgoFQ" }
+  ],
+  "services": {
+    "teaching": "Private programming tutor / programming course",
+    "freelance": "Game development, AR/VR experiences, mobile apps, web development, graphic design, and audio production.",
+    "contact": {
+      "whatsapp": {
+        "name": "WhatsApp",
+        "url": "https://wa.me/62895344355265",
+        "desc": "Fast Response for Inquiries"
+      },
+      "fastwork": {
+        "name": "Fastwork",
+        "url": "https://fastwork.id/user/mariefismi/",
+        "desc": "Hire Me Professionally"
+      }
+    }
+  },
+  "resources": [
+    { "name": "Antarest REST API Unity", "desc": "Library for Antares IoT Platform using Unity", "url": "https://github.com/mariefismi02/Antares-REST-API-Library-Unity" },
+    { "name": "Random Seed Generator", "desc": "Balatro-like seed generator system for Unity with deterministic results", "url": "https://github.com/mariefismi02/RandomSeedGenerator" },
+    { "name": "Runtime Generated Image Target AR", "desc": "Runtime generated image target AR example using Unity & Vuforia", "url": "https://github.com/mariefismi02/RuntimeGeneratedImageTargetAR" },
+    { "name": "Advanced Quest System", "desc": "Modular quest framework for Unity using ScriptableObjects", "url": "https://github.com/mariefismi02/AdvancedQuestSystem" },
+    { "name": "Curriculum Vitae", "desc": "Professional resume / CV download", "url": "https://drive.google.com/open?id=1EDc0ragNClPnZtNUnE0SZX95QtB8ABY9" },
+    { "name": "Certificates Gallery", "desc": "Collection of certifications and achievements", "url": "https://drive.google.com/open?id=1ZokxvJCSeUPOrYEIVzm4AFHVbbNWwoSU" }
+  ],
+  "pages": [
+    { "name": "Home", "url": "/" },
+    { "name": "Projects", "url": "/projects" },
+    { "name": "Resources", "url": "/resources" },
+    { "name": "Skills", "url": "/skill" },
+    { "name": "Profile", "url": "/profile" },
+    { "name": "Services", "url": "/services" }
+  ],
+  "skills_summary": {
+    "programming_languages": [
+      { "name": "C#", "val": 95, "desc": "Primary language for 5+ years. Extensive use in production-level Unity projects and enterprise systems." },
+      { "name": "Kotlin", "val": 95, "desc": "Certified 'Android Developer Expert'. Specialized in modern Android architecture and reactive patterns." },
+      { "name": "Lua", "val": 85, "desc": "Professional scripting for Roblox Studio and custom game logic systems." },
+      { "name": "C++", "val": 75, "desc": "Utilized for performance-critical modules and engine-level development." },
+      { "name": "Typescript", "val": 80, "desc": "Scalable web development and tool creation for game pipelines." },
+      { "name": "Java", "val": 80, "desc": "Solid foundation in enterprise Android development and backend services." }
+    ],
+    "game_engines": [
+      { "name": "Unity", "val": 98, "desc": "Unity Certified Associate: Programmer. 3.5 years as a Game Programmer at Agate International. Focused on UI systems, data-driven architecture, and cross-platform optimization." },
+      { "name": "Roblox Studio", "val": 85, "desc": "Professional experience developing multiplayer experiences. Proficient in Lua scripting and Roblox API services." },
+      { "name": "GameMaker Studio 2", "val": 75, "desc": "Experienced in rapid 2D prototyping, custom mechanics, and GMS2 workflow optimization." },
+      { "name": "Phaser 3", "val": 70, "desc": "Integrating 2D mechanics for web-based games and interactive HTML5 experiences." }
+    ],
+    "specializations": [
+      { "name": "AR/VR/XR", "val": 80, "desc": "1 year specialized experience using Vuforia, EasyAR, ARCore, and SteamVR." },
+      { "name": "Mentorship", "val": 90, "desc": "Game Dev Mentor at Markoding & Skilvul. Reviewer for Agate Academy." },
+      { "name": "Android Dev", "val": 95, "desc": "Certified Android Developer Expert with focus on modern PWA and Kotlin." },
+      { "name": "Multiplayer", "val": 85, "desc": "Experience in Netcode, Mirror, and client-server synchronization patterns." }
+    ],
+    "concepts": [
+      "SOLID Principles",
+      "Design Patterns",
+      "Dependency Injection",
+      "Clean Code",
+      "Data-Driven Design",
+      "Performance Optimization (DOTS/ECS)",
+      "Object-Oriented Programming (OOP)",
+      "Mobile (Android) Architecture",
+      "Version Control (Git)",
+      "Agile Methodology",
+      "Memory Management",
+      "Multi-threading",
+      "PWA Development"
+    ]
+  },
+  "featured_projects": [
+    { "name": "Riftstrom", "type": "Games", "desc": "Action RPG, Looter Shooter, Roguelite, Multiplayer game where Arief worked as Frontend Programmer, focusing on outgame (non-gameplay) features during development at Agate." },
+    { "name": "Sate Rush", "type": "Games", "desc": "Unity Android game, won 'Best Game Concept' at the 2nd IGSI Game Jam." },
+    { "name": "Irama Makanan", "type": "Games", "desc": "GameMaker Android game, Finalist at Gemastik XI - Game Development Category." },
+    { "name": "Flying Witch", "type": "Games", "desc": "GameMaker Android published game (Tower Defense/shooter)." },
+    { "name": "Solar System VR", "type": "AR/VR", "desc": "Milky Way VR simulation using Unity and Cardboard VR." },
+    { "name": "My Kisah Chatbot", "type": "Web", "desc": "Waifu anime chatbot using React, Vite, Gemini API, and TailwindCSS." },
+    { "name": "LDK Al-Fath Tel-U Official Site", "type": "Web", "desc": "Wordpress student org site. Won 'The Best Students Organization site of the Year 2018' at Telkom University." }
+  ]
+}
