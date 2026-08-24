@@ -5,12 +5,46 @@
       "name": "Programming Languages",
       "icon": "fas fa-code",
       "skills": [
-        { "name": "C#", "val": 95, "icon": "devicon-csharp-plain", "desc": "Primary language for 5+ years. Extensive use in production-level Unity projects and enterprise systems.", "keywords": ["C#", "Unity"] },
-        { "name": "Kotlin", "val": 95, "icon": "devicon-kotlin-plain", "desc": "Certified 'Android Developer Expert'. Specialized in modern Android architecture and reactive patterns.", "keywords": ["Kotlin", "Android"] },
-        { "name": "Lua", "val": 85, "icon": "devicon-lua-plain", "desc": "Professional scripting for Roblox Studio and custom game logic systems.", "keywords": ["Lua", "Roblox"] },
-        { "name": "C++", "val": 75, "icon": "devicon-cplusplus-plain", "desc": "Utilized for performance-critical modules and engine-level development.", "keywords": ["C++"] },
-        { "name": "Typescript", "val": 80, "icon": "devicon-typescript-plain", "desc": "Scalable web development and tool creation for game pipelines.", "keywords": ["Typescript", "TS"] },
-        { "name": "Java", "val": 80, "icon": "devicon-java-plain", "desc": "Solid foundation in enterprise Android development and backend services.", "keywords": ["Java"] }
+        {
+          "name": "C#",
+          "val": 95,
+          "icon": "devicon-csharp-plain",
+          "desc": "Primary language for Unity gameplay, UI, architecture, asynchronous workflows, and multiplayer systems."
+        },
+        {
+          "name": "Dart",
+          "val": 40,
+          "level": "Basic",
+          "icon": "devicon-dart-plain",
+          "desc": "Basic Dart experience for building cross-platform applications with Flutter."
+        },
+        {
+          "name": "Luau",
+          "val": 85,
+          "level": "Intermediate",
+          "icon": "devicon-lua-plain",
+          "desc": "Roblox scripting for gameplay systems and Roblox API service integrations."
+        },
+        {
+          "name": "C++",
+          "val": 75,
+          "level": "Intermediate",
+          "icon": "devicon-cplusplus-plain",
+          "desc": "Intermediate C++ experience developing games and gameplay systems with Cocos2d-x."
+        },
+        {
+          "name": "TypeScript",
+          "val": 80,
+          "level": "Intermediate",
+          "icon": "devicon-typescript-plain",
+          "desc": "Typed development for Phaser games and modern web applications."
+        },
+        {
+          "name": "Java",
+          "val": 80,
+          "icon": "devicon-java-plain",
+          "desc": "Object-oriented programming experience across Android and backend-oriented development."
+        }
       ]
     },
     {
@@ -18,37 +52,81 @@
       "name": "Game Engines",
       "icon": "fas fa-wrench",
       "skills": [
-        { 
-          "name": "Unity", 
-          "val": 98, 
+        {
+          "name": "Unity",
+          "val": 98,
           "logo": "engines/Unity.png",
-          "desc": "Unity Certified Associate: Programmer. 3.5 years as a Game Programmer at Agate International. Focused on UI systems, data-driven architecture, and cross-platform optimization.",
-          "subskills": ["Certified Programmer", "UI Programming", "Zenject/VContainer", "URP/HDRP", "Addressables"],
-          "keywords": ["Unity"] 
+          "desc": "Advanced Unity development across commercial, freelance, and game-jam projects, focused on scalable architecture, responsive UI, multiplayer, XR, and cross-platform delivery.",
+          "subskills": [
+            "C#",
+            "UGUI",
+            "Addressables",
+            "ScriptableObjects",
+            "VContainer",
+            "URP",
+            "Input System",
+            "Physics",
+            "Tweening",
+            "Multiplayer",
+            "Data Structures",
+            "Asynchronous Programming",
+            "AR",
+            "VR",
+            "Mobile",
+            "PC"
+          ],
+          "works": {
+            "toolKeywords": ["Unity"]
+          }
         },
-        { 
-          "name": "Roblox Studio", 
-          "val": 85, 
+        {
+          "name": "Roblox Studio",
+          "val": 85,
+          "level": "Intermediate",
           "logo": "engines/RobloxStudio.png",
-          "desc": "Professional experience developing multiplayer experiences. Proficient in Lua scripting and Roblox API services.",
-          "subskills": ["Luau", "DataStoreService", "Networking", "Multilingual Support"],
-          "keywords": ["Roblox"] 
+          "desc": "Intermediate Roblox development with Luau and Roblox API services for gameplay systems and connected experiences.",
+          "subskills": [
+            "Luau",
+            "Roblox API Services"
+          ],
+          "works": {
+            "toolKeywords": ["Roblox"]
+          }
         },
-        { 
-          "name": "GameMaker Studio 2", 
-          "val": 75, 
+        {
+          "name": "GameMaker Studio",
+          "val": 75,
+          "level": "Advanced",
           "logo": "engines/GameMaker.png",
-          "desc": "Experienced in rapid 2D prototyping, custom mechanics, and GMS2 workflow optimization.",
-          "subskills": ["GML", "Physics", "Surfaces", "State Machines"],
-          "keywords": ["Game Maker", "GMS2"] 
+          "desc": "Advanced GameMaker development for production-ready 2D games on mobile and PC, including networking, platform services, rendering surfaces, and UI.",
+          "subskills": [
+            "GML",
+            "Data Structures",
+            "Social Features",
+            "Input",
+            "Networking",
+            "Surfaces",
+            "UI",
+            "Mobile",
+            "PC"
+          ],
+          "works": {
+            "toolKeywords": ["Game Maker"]
+          }
         },
-        { 
-          "name": "Phaser 3", 
-          "val": 70, 
+        {
+          "name": "Phaser 3",
+          "val": 70,
           "logo": "engines/Phaser.png",
-          "desc": "Integrating 2D mechanics for web-based games and interactive HTML5 experiences.",
-          "subskills": ["Arcade Physics", "Matter.js", "PWA Integration"],
-          "keywords": ["Phaser", "HTML"] 
+          "desc": "Foundational Phaser development for browser games using TypeScript, Matter.js, and PWA integration.",
+          "subskills": [
+            "TypeScript",
+            "Matter.js",
+            "PWA Integration"
+          ],
+          "works": {
+            "projectNames": ["Sokoban (Clone)"]
+          }
         }
       ]
     },
@@ -57,26 +135,186 @@
       "name": "Specializations",
       "icon": "fas fa-star",
       "skills": [
-        { "name": "AR/VR/XR", "val": 80, "icon": "fas fa-cubes", "desc": "1 year specialized experience using Vuforia, EasyAR, ARCore, and SteamVR.", "keywords": ["AR", "VR", "Vuforia", "ARCore"] },
-        { "name": "Mentorship", "val": 90, "icon": "fas fa-chalkboard-teacher", "desc": "Game Dev Mentor at Markoding & Skilvul. Reviewer for Agate Academy.", "keywords": ["Mentor", "Reviewer"] },
-        { "name": "Android Dev", "val": 95, "icon": "fab fa-android", "desc": "Certified Android Developer Expert with focus on modern PWA and Kotlin.", "keywords": ["Android", "PWA"] },
-        { "name": "Multiplayer", "val": 85, "icon": "fas fa-users", "desc": "Experience in Netcode, Mirror, and client-server synchronization patterns.", "keywords": ["Multiplayer", "Network"] }
+        {
+          "name": "AR/VR/MR",
+          "val": 80,
+          "level": "Intermediate",
+          "icon": "fas fa-cubes",
+          "desc": "Intermediate experience building immersive mobile, desktop, and web experiences across marker-based AR, location-based AR, VR, and mixed-reality workflows.",
+          "subskills": [
+            "Unity",
+            "EasyAR",
+            "ARCore",
+            "SteamVR",
+            "AR.js",
+            "Vuforia",
+            "Google VR",
+            "Spark AR (Legacy)"
+          ],
+          "works": {
+            "collections": ["arvr"]
+          }
+        },
+        {
+          "name": "Teaching & Mentorship",
+          "val": 90,
+          "icon": "fas fa-chalkboard-teacher",
+          "desc": "Game development mentor at Markoding and Skilvul, Agate Academy reviewer, and provider of private courses and one-on-one mentoring.",
+          "subskills": [
+            "Markoding",
+            "Skilvul",
+            "Agate Academy",
+            "Private Courses",
+            "Private Mentoring"
+          ],
+          "works": {
+            "external": [
+              {
+                "name": "Assistant Game Mentor Certificate",
+                "type": "Certificate",
+                "platform": "Google Drive",
+                "icon": "fas fa-certificate",
+                "url": "https://drive.google.com/file/d/1O-D8WYiG2etD06yoJFY1CwjCMtpcTKiy/view"
+              },
+              {
+                "name": "Private Game & Web Development Course",
+                "type": "Service",
+                "platform": "Fastwork",
+                "icon": "fas fa-chalkboard-teacher",
+                "url": "https://fastwork.id/user/mariefismi/private-tutoring-92741934"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Multiplayer",
+          "val": 85,
+          "icon": "fas fa-users",
+          "desc": "Experience building real-time and deterministic multiplayer systems with hosted, peer-to-peer, socket, and backend-assisted networking stacks.",
+          "subskills": [
+            "Photon Fusion",
+            "Photon Quantum",
+            "GameMaker Built-in Socket Multiplayer",
+            "Steamworks P2P API",
+            "Firebase"
+          ],
+          "works": {
+            "projectNames": [
+              "Riftstrom (Demo)",
+              "Gol Hiburan"
+            ]
+          }
+        },
+        {
+          "name": "AI-Assisted Development",
+          "val": 80,
+          "level": "Intermediate",
+          "icon": "fas fa-robot",
+          "desc": "Combines prompt design, context management, structured planning, and architectural judgment to keep AI-assisted output maintainable and high quality.",
+          "subskills": [
+            "Claude",
+            "GPT",
+            "Ollama",
+            "Gemini",
+            "Antigravity",
+            "VS Code",
+            "MCP",
+            "Agent Skills"
+          ],
+          "works": {
+            "projectNames": [
+              "Alchemia",
+              "My Kisah Chatbot"
+            ]
+          }
+        }
       ]
     }
   ],
-  "concepts": [
-    "SOLID Principles",
-    "Design Patterns",
-    "Dependency Injection",
-    "Clean Code",
-    "Data-Driven Design",
-    "Performance Optimization (DOTS/ECS)",
-    "Object-Oriented Programming (OOP)",
-    "Mobile (Android) Architecture",
-    "Version Control (Git)",
-    "Agile Methodology",
-    "Memory Management",
-    "Multi-threading",
-    "PWA Development"
+  "sdks": [
+    "Firebase",
+    "Google Play Services",
+    "Steamworks SDK",
+    "Photon Quantum",
+    "Photon Fusion"
+  ],
+  "architecture": [
+    {
+      "name": "SOLID Principles"
+    },
+    {
+      "name": "Design Patterns",
+      "subskills": [
+        "Factory Method",
+        "Abstract Factory",
+        "Builder",
+        "Prototype",
+        "Singleton",
+        "Adapter",
+        "Decorator",
+        "Composite",
+        "Observer",
+        "Command",
+        "State",
+        "Strategy",
+        "Template Method",
+        "Chain of Responsibility",
+        "Mediator",
+        "Iterator",
+        "Memento",
+        "Object Pool",
+        "Event Bus / Event Channel",
+        "Finite State Machine",
+        "MVC / MVP / MVVM",
+        "Repository",
+        "Service Locator",
+        "Data-Driven / ScriptableObject Architecture",
+        "Specification Pattern"
+      ]
+    },
+    {
+      "name": "Dependency Injection"
+    },
+    {
+      "name": "Clean Code"
+    },
+    {
+      "name": "ECS",
+      "subskills": ["Photon Quantum"]
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "name": "Asynchronous Programming",
+      "subskills": [
+        "Async/Task",
+        "UniTask",
+        "Coroutine"
+      ]
+    },
+    {
+      "name": "Memory Management"
+    }
+  ],
+  "projectManagement": [
+    {
+      "name": "Version Control",
+      "subskills": [
+        "Git",
+        "Sourcetree",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Agile Methodology",
+      "subskills": [
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Documentation"
+    }
   ]
 }

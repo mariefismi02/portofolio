@@ -551,6 +551,33 @@
         "Featured",
         "Competition"
       ]
+    },
+    {
+      "name": "Aftermarket",
+      "thumbnail": "games/aftermarket-cover.jpg",
+      "img": [
+        "games/aftermarket1.jpg",
+        "games/aftermarket2.jpg",
+        "games/aftermarket3.jpg"
+      ],
+      "video": {
+        "host": "youtube",
+        "link": "https://www.youtube.com/embed/WoXhLGsPmVQ"
+      },
+      "created": "2025-11-23",
+      "genre": [
+        "Puzzle",
+        "Adventure",
+        "Point & Click",
+        "Dark Humor"
+      ],
+      "url": "https://quacklebit.itch.io/aftermarket",
+      "tools": "Unity",
+      "platforms": "Web, Windows",
+      "desc": "A point-and-click puzzle adventure where you play as a ghost with one last night before sunrise. Created for GameJam+ 2025 Indonesia, with Arief serving as one of the programmers.",
+      "sections": [
+        "Game Jam"
+      ]
     }
   ],
   "web": [
