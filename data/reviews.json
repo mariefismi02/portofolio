@@ -1,0 +1,13 @@
+[
+  { "name": "Mauliawan", "course": "Game Maker Studio", "level": "Basic", "rating": 4, "review": "Cukup puas, materi yg dijelaskan cukup jelas untuk orang yg baru belajar game maker studio, hanya saja kadang terlalu cepat dalam menjelaskan." },
+  { "name": "Michael", "course": "Unity3D", "level": "Basic", "rating": 5, "review": "Sangat memuaskan.. pengajaran bagus, gampang di mengerti" },
+  { "name": "Hadi", "course": "Game Maker Studio", "level": "Basic", "rating": 5, "review": "Reliable and flexible, customized to the needs" },
+  { "name": "Kenneth", "course": "Unity3D", "level": "Basic", "rating": 5, "review": "Guru mengajar dengan baik" },
+  { "name": "Almira", "course": "Unity3D", "level": "Basic", "rating": 4, "review": "Pengajarnya baik dan punctual, materi yang dijelaskan juga mudah dimengerti, banyak menerapkan learning-by-doing, which is sesuatu yang ngebantu saya buat lebih memahami pelajaran dan tidak cuma mendengarkan saja" },
+  { "name": "Teguh", "course": "Unity3D", "level": "Basic", "rating": 4, "review": "Good course" },
+  { "name": "Radmas Ian Kadbal", "course": "Unity3D", "level": "Intermediate 1", "rating": 5, "review": "Dapat mengajar tentang Unity dengan sangat baik dan dapat membantu menyelesaikan masalah error yg saya alami." },
+  { "name": "Yovan Estefen", "course": "Web Dasar", "level": "Basic", "rating": 5, "review": "Materi yang disampaikan dapat dipahami dengan baik" },
+  { "name": "Luthfan Herlangga", "course": "Unity3D", "level": "Intermediate 2", "rating": 4, "review": "Mantap trusted + amanah walaupun transaksi gapake pihak ke3, penjelasannya jelas diajarin dari dasar, keliatan banyak experiencenya di bidang game development" },
+  { "name": "Meliana", "course": "Unity 2D", "level": "Semi-Advanced", "rating": 4, "review": "Privat sangat membantu memahami penggunaan berbagai fungsi di unity" },
+  { "name": "Joshua Manly", "course": "Unity3D", "level": "Basic", "rating": 5, "review": "Pengajarannya mudah dimengerti dan selalu memberikan respon yang baik" }
+]
